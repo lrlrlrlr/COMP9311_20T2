@@ -3,6 +3,3 @@
 
 ## 20T3课程Git
 ### [COMP3311-COMP9311_20T3的资料都会更新在这里](https://github.com/lrlrlrlr/COMP3311-COMP9311_20T3)
-
-## 20T3课程群二维码
-![二维码](课程群二维码.png)
